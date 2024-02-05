@@ -1,0 +1,9 @@
+.post:hover {
+    transition: 0.5s;
+    transform: scale(2,02);
+}
+
+.post:link {
+    color: #000 !important;
+    text-decoration: none;
+}

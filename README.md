@@ -22,7 +22,7 @@
 1. **Настройка базы данных:**
     В файле ``application.properties`` необходимо установить логин и пароль для подключения к базе данных.
 
-    В строке ``spring.datasource.username=root`` устанавливаем имя пользователя.
+    В строке ``spring.datasource.username=postgres`` устанавливаем имя пользователя.
 
     В строке ``spring.datasource.password=admin`` устанавливаем пароль.
 
